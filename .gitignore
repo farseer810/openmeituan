@@ -1,0 +1,7 @@
+.vscode/
+env/
+*.pyc
+dist/
+openmeituan.egg-info
+py3env/
+.DS_Store
